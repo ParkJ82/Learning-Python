@@ -1,3 +1,9 @@
+"""
+1. Have the user input a semi-annual salary raise semi_annual_raise (as a decimal percentage)
+2. After the 6th month, increase your salary by that percentage. Do the same after the 12th
+month, the 18th month, and so on."""
+
+
 total_cost = float(input('Cost of dream home: '))
 portion_saved = float(input('Portion of salary to be saved: '))
 annual_salary = float(input('Starting annual salary: '))
